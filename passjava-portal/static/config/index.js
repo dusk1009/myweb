@@ -5,7 +5,7 @@
   window.SITE_CONFIG = {};
 
   // api接口请求地址
-  window.SITE_CONFIG['baseUrl'] = 'http://localhost:8060/api'; // 网关地址
+  window.SITE_CONFIG['baseUrl'] = 'http://104.155.215.158:8080/renren-fast'; // 网关地址
 
   // cdn地址 = 域名 + 版本号
   window.SITE_CONFIG['domain']  = './'; // 域名
