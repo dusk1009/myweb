@@ -66,3 +66,6 @@ db/db_back_dir/
 
 ### redis ###
 /redis/
+
+### nacos ###
+nacos/
